@@ -18,8 +18,11 @@ body {
 }
 
 @media (max-width:768px) {
-.eisenhower-matrix-block { text-align: center;
-}
+
+    .eisenhower-matrix-block { 
+        text-align: center;
+    }
+    
 }
 .centered-main-page-element {
     display: block;
